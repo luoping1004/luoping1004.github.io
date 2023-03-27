@@ -4,7 +4,7 @@ title: project 1
 description: a project with a background image
 img: assets/img/dna.jpg
 importance: 1
-category: work
+category: research
 ---
 
 Every project has a beautiful feature showcase page.

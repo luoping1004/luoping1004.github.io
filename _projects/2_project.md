@@ -2,9 +2,9 @@
 layout: page
 title: project 2
 description: a project with a background image
-img: assets/img/TME.jpg
+img: assets/img/TME.png
 importance: 2
-category: work
+category: research
 ---
 
 Every project has a beautiful feature showcase page.
