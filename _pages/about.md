@@ -6,7 +6,7 @@ subtitle: <a href='#'>Postdoctoral Researcher</a>, Princess Margaret Cancer Cent
 
 profile:
   align: right
-  image: luoping.png
+  image: luoping.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Aurora, ON, Canada</p>
