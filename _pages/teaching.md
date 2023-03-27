@@ -2,10 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description:
+description: teaching experience details coming soon...
 nav: true
 nav_order: 4
 ---
 
-    Guest Lecturer at Thomson River University
-    
+- Guest Lecturer at Thomson River University
+
+- Teaching Assistant at University of Saskatchewan
+
