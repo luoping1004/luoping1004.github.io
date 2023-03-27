@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/TME.png
+title: Single cell
+description: Study the tumore microenvironment with single cell RNA sequencing
+img: assets/img/tme.png
 importance: 2
 category: research
 ---

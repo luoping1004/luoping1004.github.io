@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: cell free DNA
+description: Cancer early diagnosis based on cell-free methylated DNA immunoprecipitation-sequencing and whole genome sequencing
 img: assets/img/dna.jpg
 importance: 1
 category: research

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Disease gene prediction
+description: Predict disease-associated genes with multimodal deep learning
+img: assets/img/dgn.png
+redirect: https://github.com/luoping1004/dgMDL
 importance: 3
 category: research
 ---
