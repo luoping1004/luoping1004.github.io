@@ -16,5 +16,5 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-This is Ping's personal website.
+I'm interested in integrating multi-view data with deep learning models to facilitate the development of new diagnosis and treatment strategies.
 
