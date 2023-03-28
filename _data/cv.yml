@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Ping Luo
-    - name: Date of Birth
-      value: Oct 1988
+    # - name: Date of Birth
+    #   value: Oct 1988
     - name: Languages
       value: English, Mandarin
 
@@ -93,4 +93,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Ski, Sci-fi, Hiking, Planting...
+    - <u>Hobbies:</u> Ski, Sci-fi, Hiking, Gardening...
