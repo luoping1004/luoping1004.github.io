@@ -2,7 +2,7 @@
 layout: page
 title: Cell type labeling
 description: Evaluation of 26 cell annotation algorithms for single cell RNA sequencing data
-img: assets/img/tme.png
+img: assets/img/labeling.png
 importance: 2
 category: research
 ---
