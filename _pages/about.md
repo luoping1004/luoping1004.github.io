@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Postdoctoral Researcher</a>, Princess Margaret Cancer Centre
+subtitle: <a href='#'>Bioinformatics Specialist</a>, Princess Margaret Cancer Centre
 
 profile:
   align: right
