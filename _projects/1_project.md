@@ -1,6 +1,6 @@
 ---
 layout: page
-title: cell free DNA
+title: Cell-Free DNA
 description: Cancer early diagnosis based on cell-free methylated DNA immunoprecipitation-sequencing and whole genome sequencing
 img: assets/img/dna.jpg
 importance: 1
