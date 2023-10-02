@@ -8,6 +8,37 @@
     - name: Languages
       value: English, Mandarin
 
+- title: Experience
+  type: time_table
+  contents:
+    - title: Bioinformatics Specialist at Dr. Tak Mak's lab
+        institution: Princess Margaret Cancer Centre, Toronto, Canada
+        year: 2023 - Present
+        description:
+          - Discover multiple myeloma infiltrating T cell receptors and epitopes.
+    - title: Postdoctoral Researcher at Dr. Trevor Pugh's lab
+      institution: Princess Margaret Cancer Centre, Toronto, Canada
+      year: 2019 - 2023
+      description:
+        - Apply machine/deep learning models to develop cancer diagnosis and treatment strategies.
+        - Early diagnose cancer based on cell-free methylated DNA immunoprecipitation-sequencing.
+          # contents:
+          #   - Using machine learning to predict cancers by training models with cfDNA-based DNA methylation data
+        - Study the tumor microenvironment with single cell/nuclei RNA sequencing. # add title: here if has sub contents
+          # contents:
+          #   - Sub-description 1
+    - title: Teaching Assistant
+      institution: University of Saskatchewan, Saskatoon, Canada
+      year: 2017 - 2019
+      description:
+        - Help students apply the principles of statics to solve practical problems.
+
+    - title: Technician
+      institution: Lingbao e-Government Affairs Centre, Lingbao, China
+      year: 2010 - 2013
+      description: 
+        - Manage the online human resource system.
+
 - title: Education
   type: time_table
   contents:
@@ -35,31 +66,7 @@
         - Computer Science
         # - Description 2.
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Postdoctoral Researcher
-      institution: Princess Margaret Cancer Centre, Toronto, Canada
-      year: 2019 - Present
-      description:
-        - Apply machine/deep learning models to develop cancer diagnosis and treatment strategies.
-        - Early diagnose cancer based on cell-free methylated DNA immunoprecipitation-sequencing.
-          # contents:
-          #   - Using machine learning to predict cancers by training models with cfDNA-based DNA methylation data
-        - Study the tumor microenvironment with single cell/nuclei RNA sequencing. # add title: here if has sub contents
-          # contents:
-          #   - Sub-description 1
-    - title: Teaching Assistant
-      institution: University of Saskatchewan, Saskatoon, Canada
-      year: 2017 - 2019
-      description:
-        - Help students apply the principles of statics to solve practical problems.
 
-    - title: Technician
-      institution: Lingbao e-Government Affairs Centre, Lingbao, China
-      year: 2010 - 2013
-      description: 
-        - Manage the online human resource system.
 
 
 # - title: Open Source Projects
