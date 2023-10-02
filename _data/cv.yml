@@ -92,10 +92,10 @@
   contents:
     - title: Cancer diagnosis.
       items: 
-        - Predict cancer by integrating cell-free methylomes and fragmentomes profiles. 
+        - Predict cancer by integrating cell-free DNA sequencing data. 
     - title: Cancer treatment.
       items:
-        - Study the transcriptional shifts in the tumor microenvironment by integrating image, spatial transcriptomics and single cell RNA sequencing data.
+        - Identify T cell receptors that recognize tumor antigens using CITE-seq and TCR sequencing.
 
 - title: Other Interests
   type: list
