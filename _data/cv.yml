@@ -12,9 +12,9 @@
   type: time_table
   contents:
     - title: Bioinformatics Specialist at Dr. Tak Mak's lab
-        institution: Princess Margaret Cancer Centre, Toronto, Canada
-        year: 2023 - Present
-        description:
+      institution: Princess Margaret Cancer Centre, Toronto, Canada
+      year: 2023 - Present
+      description:
           - Discover multiple myeloma infiltrating T cell receptors and epitopes.
     - title: Postdoctoral Researcher at Dr. Trevor Pugh's lab
       institution: Princess Margaret Cancer Centre, Toronto, Canada
