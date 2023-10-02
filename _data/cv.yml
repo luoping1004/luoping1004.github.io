@@ -27,17 +27,22 @@
         - Study the tumor microenvironment with single cell/nuclei RNA sequencing. # add title: here if has sub contents
           # contents:
           #   - Sub-description 1
+    - title: Teaching Assistant 
+      institution: Bioinformatics.ca
+      year: July, 2023
+      description:
+        - Facilitate students' success in single-cell analysis labs by providing hands-on assistance in resolving errors and delivering explanations for the functions and packages employed.
+    - title: Guest Lecturer 
+      institution: Thomson River University, Kamloops, Canada
+      year: May, 2021
+      description:
+        - Delivered an impactful talk on the single-cell annotation pipeline.
     - title: Teaching Assistant
       institution: University of Saskatchewan, Saskatoon, Canada
       year: 2017 - 2019
       description:
         - Help students apply the principles of statics to solve practical problems.
-
-    - title: Technician
-      institution: Lingbao e-Government Affairs Centre, Lingbao, China
-      year: 2010 - 2013
-      description: 
-        - Manage the online human resource system.
+    
 
 - title: Education
   type: time_table
