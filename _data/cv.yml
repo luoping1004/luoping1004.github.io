@@ -95,7 +95,7 @@
         - Predict cancer by integrating cell-free DNA sequencing data. 
     - title: Cancer treatment.
       items:
-        - Identify T cell receptors that recognize tumor antigens using CITE-seq and TCR sequencing.
+        - Design new immunotherapies by identifing T cell receptors that recognize tumor antigens based on CITE-seq and TCR sequencing.
 
 - title: Other Interests
   type: list
