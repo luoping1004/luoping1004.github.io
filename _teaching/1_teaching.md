@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Sessional Lecturer
+description: Sessional Lecturer at Algoma University
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: bioinformatics
 ---
 
 Every project has a beautiful feature showcase page.
