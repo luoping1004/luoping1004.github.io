@@ -1,20 +1,26 @@
 ---
 layout: page
-permalink: /teaching/
 title: teaching
+permalink: /teaching/
 description: teaching experience details coming soon...
 nav: true
 nav_order: 4
 display_categories: [computer science, bioinformatics]
+horizontal: false
 ---
 
 - Sessional Lecturer at Algoma University
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Algoma_1046W.jpg" title="COSC1046W24W" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 - Guest Lecturer at Thomson River University
 
 - Teaching Assistant at University of Saskatchewan
 
-<!-- pages/projects.md -->
+<!-- pages/teaching.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
