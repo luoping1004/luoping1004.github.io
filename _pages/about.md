@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Bioinformatics Specialist</a>, Princess Margaret Cancer Centre
+subtitle: <a href='#'>Assistant Professor</a>, Algoma University
 
 profile:
   align: right
