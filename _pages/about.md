@@ -6,7 +6,7 @@ subtitle: <a href='#'>Assistant Professor</a>, Algoma University
 
 profile:
   align: right
-  image: luoping.jpg
+  image: luoping_algoma.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Toronto, ON, Canada</p>
