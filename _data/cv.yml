@@ -11,9 +11,14 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Assistant Professor
+        institution: Algoma University, Brampton, Canada
+        year: 2024 - Present
+        description:
+            - Faculty of Computer Science and Technology
     - title: Bioinformatics Specialist at Dr. Tak Mak's lab
       institution: Princess Margaret Cancer Centre, Toronto, Canada
-      year: 2023 - Present
+      year: 2023 - 2024
       description:
           - Analyze single cell RNA sequencing and TCR sequencing data with cutting-edge machine learning models to facilitate immunotherapy.
     - title: Postdoctoral Researcher at Dr. Trevor Pugh's lab
