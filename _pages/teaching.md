@@ -12,6 +12,7 @@ horizontal: false
 - COSC1046 - Introduction to Computer Science
 - COSC2006 - Data Structure I
 - COSC3306 - Introduction to Computer Graphics
+- COSC5806 - Data Analysis with Python
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Algoma_1046W.jpg" title="COSC1046W24W" class="img-fluid rounded z-depth-1" %}

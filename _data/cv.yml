@@ -12,10 +12,10 @@
   type: time_table
   contents:
     - title: Assistant Professor
-        institution: Algoma University, Brampton, Canada
-        year: 2024 - Present
-        description:
-            - Faculty of Computer Science and Technology
+      institution: Algoma University, Brampton, Canada
+      year: 2024 - Present
+      description:
+          - Faculty of Computer Science and Technology
     - title: Bioinformatics Specialist at Dr. Tak Mak's lab
       institution: Princess Margaret Cancer Centre, Toronto, Canada
       year: 2023 - 2024
